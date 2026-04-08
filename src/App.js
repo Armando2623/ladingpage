@@ -42,9 +42,7 @@ const App = () => {
             Ingeniero de Sistemas en formación | Desarrollador Full Stack.
           </p>
           <div className="flex flex-wrap justify-center lg:justify-start gap-4">
-            <span className="bg-gray-200 px-3 py-1 rounded-full text-sm font-medium">9no Ciclo UTP</span>
-            <span className="bg-gray-200 px-3 py-1 rounded-full text-sm font-medium">Egresado Análisis de Sistemas</span>
-            <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-medium">Operador ONPE</span>
+
           </div>
         </div>
       </header>
