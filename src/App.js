@@ -100,7 +100,7 @@ const App = () => {
           <p className="mb-4">Piura, Perú | armando.ortizvegas@gmail.com</p>
           <div className="flex justify-center space-x-6">
             <a href="https://github.com/Armando2623" className="hover:text-blue-400">GitHub</a>
-            <a href="#" className="hover:text-blue-400">LinkedIn</a>
+            <a href="www.linkedin.com/in/armando-ortiz-vegas-415b12184" className="hover:text-blue-400">LinkedIn</a>
           </div>
           <p className="mt-8 text-gray-500 text-sm">© 2026 Juan Armando Ortiz Vegas</p>
         </div>
