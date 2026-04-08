@@ -3,7 +3,13 @@
 ¡Bienvenido a mi portafolio profesional! [cite_start]Esta Landing Page ha sido desarrollada para mostrar mi trayectoria como **Ingeniero de Sistemas en formación** y mi especialización en el desarrollo de soluciones escalables utilizando el **Stack MERN** y **Java/Spring Boot**[cite: 2, 5, 10].
 
 👤 Sobre Mí
-[cite_start]Soy un profesional apasionado por la tecnología, actualmente cursando el **9no ciclo de Ingeniería de Sistemas** en la UTP y egresado de **Análisis de Sistemas** por la ETSUNP[cite: 10, 12]. Mi experiencia abarca desde la gestión de infraestructura crítica en la **ONPE** hasta el liderazgo técnico en el desarrollo de startups con enfoques **SaaS y Multitenant**.
+[cite_start]Desarrollador Full Stack con formación en Ingeniería de Sistemas y sólida trayectoria en el
+            diseño de arquitecturas escalables. Especialista en el desarrollo de soluciones end-to-end
+            utilizando el stack MERN (MongoDB, Express, React, Node.js) y Java/Spring Boot.
+            Experiencia comprobada en la implementación de Microservicios, APIs REST y sistemas Multitenant con aislamiento de datos y
+            gestión de roles, optimizando la lógica de negocio para startups tecnológicas y entornos de alta responsabilidad. Experto en la integración de
+           datos en tiempo real mediante WebSockets y gestión de bases de datos tanto relacionales (SQL Server, MySQL) como NoSQL (MongoDB). Profesional proactivo,
+            orientado a la seguridad, observabilidad y aplicación de buenas prácticas de desarrollo para entregar productos de alto impacto.
 
 🛠️ Tecnologías Utilizadas
 - **Frontend:** React.js, Tailwind CSS (Diseño Responsivo).
