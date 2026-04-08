@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+🚀 Personal Portfolio | Full Stack Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a mi portafolio profesional! [cite_start]Esta Landing Page ha sido desarrollada para mostrar mi trayectoria como **Ingeniero de Sistemas en formación** y mi especialización en el desarrollo de soluciones escalables utilizando el **Stack MERN** y **Java/Spring Boot**[cite: 2, 5, 10].
 
-## Available Scripts
+👤 Sobre Mí
+[cite_start]Soy un profesional apasionado por la tecnología, actualmente cursando el **9no ciclo de Ingeniería de Sistemas** en la UTP y egresado de **Análisis de Sistemas** por la ETSUNP[cite: 10, 12]. Mi experiencia abarca desde la gestión de infraestructura crítica en la **ONPE** hasta el liderazgo técnico en el desarrollo de startups con enfoques **SaaS y Multitenant**.
 
-In the project directory, you can run:
+🛠️ Tecnologías Utilizadas
+- **Frontend:** React.js, Tailwind CSS (Diseño Responsivo).
+- **Backend:** Node.js, Express (Integración con APIs).
+- **Arquitectura:** Microservicios y despliegue continuo con Vercel.
+- [cite_start]**Bases de Datos:** Experiencia en modelado SQL (SQL Server, MySQL) y NoSQL (MongoDB)[cite: 7, 29].
 
-### `npm start`
+ 📂 Proyectos Destacados
+En este portafolio podrás encontrar detalles sobre:
+- **AviReport:** Sistema SaaS para el sector avícola con arquitectura Multitenant.
+- **School Management System:** Gestión administrativa escolar desarrollada en Java y SQL Server.
+- [cite_start]**Gestión de Citas:** Arquitectura de microservicios para el control de accesos institucionales[cite: 14, 16].
+- [cite_start]**Control Financiero:** Aplicación Full Stack para gestión transaccional dinámica[cite: 18, 19].
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Cómo ejecutar el proyecto
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/Armando2623/nombre-de-tu-repo.git](https://github.com/Armando2623/nombre-de-tu-repo.git)
